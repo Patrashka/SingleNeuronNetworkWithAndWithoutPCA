@@ -11,7 +11,7 @@ Fuente oficial:
 https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 Para usar el dataset:
-1. Descargar el archivo ZIP desde el enlace anterior.
+1. Descargar el archivo ZIP desde el enlace anterior o desde este mismo repositorio.
 2. Extraer el archivo.
 3. Localizar el archivo:
 
